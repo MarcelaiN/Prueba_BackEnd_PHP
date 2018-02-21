@@ -1,5 +1,3 @@
-# Prueba_BackEnd_PHP
-
 <?php
   $numero = 1;
   while ($numero <= 100) {
